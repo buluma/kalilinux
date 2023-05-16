@@ -1,5 +1,4 @@
-# Dockerfile kali-light
-
+# Dockerfile kali-rolling
 # Official base image
 FROM kalilinux/kali-rolling
 
